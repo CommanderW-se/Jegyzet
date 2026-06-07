@@ -1,0 +1,105 @@
+fogalmak:
+  regálé:
+    jelentés: Királyi felségjogon alapuló jövedelemforrás (pl. bányászat, pénzverés, vámok), amely közvetlenül a királyt illette.
+    forrás: Történelem 9. tankönyv (NKP)
+  tartományúri_hatalom:
+    jelentés: Oligarchák által irányított nagybirtokrendszer, ahol a tartományurak királyi jogokat gyakoroltak saját területükön.
+    forrás: Újgenerációs történelem tankönyv
+  bandérium:
+    jelentés: Egy főúr vagy egyházi vezető zászlaja alatt szolgáló katonai egység.
+    forrás: Középkori hadtörténeti fogalom
+  rendi_dualizmus:
+    jelentés: A király és a rendek közötti hatalommegosztás rendszere.
+    forrás: Középkori magyar államszervezet
+  aranyforint:
+    jelentés: Károly Róbert által bevezetett, értékálló aranypénz.
+    forrás: Magyar gazdaságtörténet
+  kapuadó:
+    jelentés: A jobbágyporták után fizetett állami adó.
+    forrás: Középkori adórendszer
+  harmincadvám:
+    jelentés: A külkereskedelemben szedett vám, az áru értékének egyharmincada.
+    forrás: Kereskedelemtörténet
+  kilenced:
+    jelentés: A jobbágy termésének kilenced része, amely a földesurat illette.
+    forrás: 1351-es törvények
+  perszonálunió:
+    jelentés: Két állam közös uralkodó alatt, külön államszervezettel.
+    forrás: Államjogi alapismeret
+
+uralkodók:
+  Károly_Róbert:
+    uralkodott: 1308-1342
+    dinasztia: Anjou-ház
+    belpolitika:
+      - Tartományúri hatalom felszámolása
+      - Rozgonyi csata (1312)
+      - Erős központi hatalom kiépítése
+    gazdaság:
+      - Regálé jövedelmekre építő rendszer
+      - Bányareform és urbura
+      - Aranyforint bevezetése
+      - Kapuadó és harmincadvám
+    külpolitika:
+      - 1335-ös visegrádi királytalálkozó
+      - Lengyel, horvát és szlavón királyi cím
+    kapcsolódó_fogalmak:
+      - regálé
+      - tartományúri_hatalom
+      - aranyforint
+      - kapuadó
+      - harmincadvám
+
+  Luxemburgi_Zsigmond:
+    uralkodott: 1387-1437
+    belpolitika:
+      - Rendi dualizmus kialakulása
+      - 1405-ös városi dekrétumok
+    külpolitika:
+      - Nikápolyi csata (1396)
+      - telekkatonaság bevezetése
+      - kettős végvári vonal
+      - Törökellenes hadjáratok
+      - Cseh királyi cím
+    kapcsolódó_fogalmak:
+      - rendi_dualizmus
+      - bandérium
+
+  Hunyadi_János:
+    tisztség: kormányzó
+    időszak: 1446-1456
+    hadjáratok:
+      - Hosszú hadjárat (1443-1444)
+      - Nándorfehérvári diadal (1456)
+      - várnai csata (1444) vereség
+      - második rigómezei csata (1448)vereség
+    jelentőség:
+      - Török előretörés megállítása
+    kapcsolódó_fogalmak:
+      - bandérium
+
+  Hunyadi_Mátyás:
+    uralkodott: 1458-1490
+    neveltetés:
+      - Humanista műveltség
+    belpolitika:
+      - Erős központi hatalom
+      - Nemesi befolyás visszaszorítása
+      - központosított rendi monarhia
+    Küépolitika:
+      - Cseh és osztrák trón megszerzése
+      - Perszonálunió
+    gazdaság:
+      - Új adók bevezetése (füstpénz)
+      - Hadikiadásokat fedező jövedelmek  
+    hadsereg:
+      - Fekete sereg
+    kultúra:
+      - Reneszánsz udvar
+    kapcsolódó_fogalmak:
+      - regálé
+      - harmincadvám
+      - kilenced
+    kultúr politika:
+      - Reneszánsz művészetek támogatása
+      - Corvina könyvtár létrehozása

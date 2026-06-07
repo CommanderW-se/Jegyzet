@@ -1,0 +1,48 @@
+
+cim:
+  leiras: "Latin eredetű, jelentése: hiúságok hiúsága; bibliai utalás; témamegjelölő"
+
+hangulat:
+  jellemzok:
+    - komor
+    - kiábrándult
+    - elmélkedő
+    - pesszimista
+  idezet: "Minden hiábavalóság."
+
+beszedhelyzet:
+  - lírai én gondolkodik az emberi életről
+  - általános megállapítások
+  - tanító jelleg
+
+tema:
+  - az élet mulandósága
+  - földi javak értéktelensége
+  idezet: "Por és hamu minden."
+
+szerkezet:
+  - gondolati vers
+  - felsorolások az emberi törekvésekről
+  - összegzés: minden mulandó
+
+mufaj:
+  - filozofikus líra
+  - elmélkedő költemény
+
+verseles_rimeles:
+  - szabályos ritmus
+  - páros rímek
+  - ünnepélyes hangzás
+
+koltoi_kepek_eszkozok:
+  ismetles: "hiúság motívuma"
+  felsorolas: "emberi törekvések"
+  metafora:
+    - por
+    - hamu
+  ellentet: "földi siker ↔ semmiség"
+
+ertelmezes:
+  - minden földi érték mulandó
+  - a gazdagság és hírnév nem ad valódi értelmet
+  - erkölcsi tanítás: ne ragaszkodjunk a hiú dolgokhoz
