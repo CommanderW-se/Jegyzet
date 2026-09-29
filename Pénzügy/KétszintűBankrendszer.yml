@@ -5,9 +5,20 @@ Központibank: #www.mnk.hu
     - Önkormányzatok
   - Monetáris politika:
     - Jegybanki alap kamat %
-    - Monetáris tanács
-    - 
+    - Monetáris tanács:
+      - Jegybank elnöke
+      - Kereskedelmi bankok elnökei
+      - Ők döntenek arról hogyan változzon a jegybanki alapkamat százalékos mértéke
+    - Minden olyan tvékenységt, amit a jegybank tevékenység, monetáris politikányk hívjuk.
+    - Jegybank legfontosabb feladata: 
+      - Ország pénzügyi egyensújának a megörzése  (Eszköze a Jegybanki alapkamat)
   - fiskális politika:
     - ksH, NAV
     - ÁLLAM
-    
+Kereskedelmi bank:
+  - Elhejezhet pénzt:
+    - Jegybanknál
+    - Máskereskedelmibankoknál
+  - Kötelezé tartalékalap:
+    - A jebank által előírt pénzmenyiség amelyhez a kereskedelmi bank nem nyúlhat hozzá
+    - De az afeletti részt mozgathatja 
